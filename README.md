@@ -1,1 +1,1 @@
-# zetech-university.github.io
+Zetech University
